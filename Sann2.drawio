@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-10T09:40:07.756Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Y7AyJW-gJb-MgifYp8kE" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-10T09:43:13.743Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="AS5uZjN_dB0f2j-xoNkp" version="22.1.7" type="github">
   <diagram name="Side-1" id="Kf9_SM2S3UEdj10ifnin">
     <mxGraphModel dx="794" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,8 +16,20 @@
             <mxPoint x="680" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hfg1uIaj8xVwxkPxyxNq-3" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="120" y="150" width="20" height="120" as="geometry" />
+        <mxCell id="Hfg1uIaj8xVwxkPxyxNq-4" value="Ressourcepersoner" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="250" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hfg1uIaj8xVwxkPxyxNq-5" value="Grå Eminence" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="290" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hfg1uIaj8xVwxkPxyxNq-6" value="Ude" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="470" y="290" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hfg1uIaj8xVwxkPxyxNq-7" value="Gidsel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="470" y="250" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hfg1uIaj8xVwxkPxyxNq-8" value="Ressourcepersoner" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=south;portConstraintRotation=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="340" width="20" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
