@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-10T09:54:04.755Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="sHe_jz_Nghbtf32z9-VE" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-10T09:56:13.679Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Lr3etwHtOdBmMIQ5Pf6m" version="22.1.7" type="github">
   <diagram name="Side-1" id="Kf9_SM2S3UEdj10ifnin">
     <mxGraphModel dx="794" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,6 +39,12 @@
         </mxCell>
         <mxCell id="Hfg1uIaj8xVwxkPxyxNq-13" value="Har ikke indlfydelse" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rotation=0;flipV=0;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="60" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hfg1uIaj8xVwxkPxyxNq-14" value="* Administration" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="220" y="140" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hfg1uIaj8xVwxkPxyxNq-15" value="* Kommunale leverandører" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="180" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
