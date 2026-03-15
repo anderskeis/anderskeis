@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anderskeis
 - 👀 I’m interested in playing with open source projects, and making my own
-- 🌱 I’m currently playing with docker, python, flask, azure, k8s, AI, Vibe Coding
-- 💞️ And having fun
+- 🌱 I’m currently playing with docker, python, flask, azure, AI, Vibe Coding, Open Claw, ProxMox, Home lab
+- 💞️ And having fun, cause that is why i started in IT in the first place, with autoexec.bat & config.sys
 - 📫 How to reach me anders at keis-hansen.dk
 
 <!---
